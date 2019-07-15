@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background: rgb(255, 255, 255);
+    padding: 20px;
+ }
+
+header > h1 {
+    text-align: center;
+    color: rgb(5, 28, 49);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+body {
+    background:  #384fb6;
+    text-align: center;
+}
+
+.prompt {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.button {
+    width: 100px;
+    height: 50px;
+    color: yellowgreen;
+}
